@@ -3,7 +3,6 @@
 
 PRs are welcome. Issues are welcomed too.
 
-Send me UI suggestions for any uplabs project on <a href="mailto:info@flutterpanda.com">info@flutterpanda.com</a>
 
 ### Support App
 
