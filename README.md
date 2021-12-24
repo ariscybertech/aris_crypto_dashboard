@@ -15,8 +15,6 @@ PRs are welcome. Issues are welcomed too.
 - Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
 - A little knowledge of Dart and Flutter
 
-### 👨‍💻 Author
-
 
 ### Screenshots
 
